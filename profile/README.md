@@ -4,7 +4,7 @@
 
 ---
 
-# 🕶️ F O R R E A L S  
+# 🕶️ F O R R E A L S S 
 
 > **“Not just code. This is reality… for real(ss).”**
 
